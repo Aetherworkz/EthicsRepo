@@ -1,1 +1,2 @@
-# EthicsRepo
+### Purpose
+This Repository would contain a variety of personal SWE projects. They would be publically available for anybody to browse, use, and even modify on their own. These projects are created for personal-learning purposes and are only to serve as stepping stones for becoming more proficient in the Software Engineering aspect of my computer science degree. As a result, I've licensed this repository under GPL 3.0 in order to keep the code open source *and* to keep any modifications of this repository's contents under the same license. I don't mind if it is for commercial, personal, or educational purposes, but I feel that the content I put here would serve best by helping others use and benefit, rather than be hidden away. 
